@@ -17,4 +17,3 @@ export const MOVIE_IMG_PATH="https://image.tmdb.org/t/p/w500"
 
 export const SUPPORTED_LANGUAGES=[{identifier:"en" ,name:"English"},{identifier:"hindi",name:"Hindi"}]
 
-export const OPENAI_KEY="sk-None-zZWqr7tjL6N36aqLJFATT3BlbkFJ2O9rzAe3SsqandzyuHaf";
